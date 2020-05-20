@@ -1,0 +1,1 @@
+ <input type="hidden" id="courseId" name="courseId" value="<%=session.getAttribute("courseId")%>" />

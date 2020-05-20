@@ -1,0 +1,20 @@
+
+
+
+ ----------- WEEK WISE -------------
+ 
+ 
+ <div class="fc-content">
+ <div class="fc-time" data-start="7:00" data-full="7:00 AM - 8:00 AM">
+ <span>7:00 - 8:00</span>
+ </div>
+ <div class="fc-title">Lunch</div>
+ </div>
+ 
+ 
+ <th class="fc-day-header fc-widget-header fc-sun">Sun 9/20</th>
+ 
+ 
+ -------------  MONTH WISE --------
+ 
+ data-date="'+n.format("YYYY-MM-DD")+'"

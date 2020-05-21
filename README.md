@@ -6,7 +6,7 @@
 
 **Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya**
 
-## Breif Description:
+## Brief Description:
 <p align="justify">
 Even though most college administrative work has been computerized, timetable scheduling
 is still mostly done manually due to its inherent dificulties. The manual timetable scheduling
